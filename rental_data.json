@@ -1,0 +1,28 @@
+{
+    "vehicles": {
+        "101": {
+            "number": "101",
+            "brand": "bmw",
+            "type": "car",
+            "rent": "20000",
+            "available": true
+        },
+        "1": {
+            "number": "1",
+            "brand": "tesla",
+            "type": "car",
+            "rent": "60000",
+            "available": true
+        }
+    },
+    "customers": {
+        "101": {
+            "name": "vasunthara",
+            "rented": null
+        },
+        "102": {
+            "name": "anna",
+            "rented": null
+        }
+    }
+}
